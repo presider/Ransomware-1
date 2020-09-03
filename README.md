@@ -3,8 +3,6 @@
 ## Ranpy
 Ranpy is a open source ransomware made with Python, designed to find and encrypt user data. Instead of a real server, the encryption key will be send via email to your mail box.
 
-![Message displayed when user files are encrypted](https://hugolb0.000webhostapp.com/ransom0.png)
-
 ## Program Structure:
 the program is organised  in **three main part**:
 
@@ -27,7 +25,7 @@ Before running it, you need to modify a few things:
 
  1. I recommend running it in a testing directory, otherwise all of your file will be encrypted: ![enter image description here](https://hugolb0.000webhostapp.com/ransom0_directory.png)
 
-3. Run it: `python ransom0.py`
+3. Run it: `python Ran.py`
 
 ## To do:
  - [x] Add logs
