@@ -1,5 +1,3 @@
-# Ransomware
-
 ## Ranpy
 Ranpy is a open source ransomware made with Python, designed to find and encrypt user data. Instead of a real server, the encryption key will be send via email to your mail box.
 
